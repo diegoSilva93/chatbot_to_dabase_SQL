@@ -1,1 +1,1 @@
-# chatbot_to_dabase_SQL
+# chatbot_with_database_SQL
